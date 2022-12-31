@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754488993341",
+    "project_id": "sistema-rick",
+    "storage_bucket": "sistema-rick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754488993341:android:f7cc3b35e26411e98fec54",
+        "android_client_info": {
+          "package_name": "com.example.sistema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754488993341-2idq585cpvrt0taiaqcec884dpd33c1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0Zxa_kTJMSQn9FFFjgT_lXIjSNdrXBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754488993341-2idq585cpvrt0taiaqcec884dpd33c1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
